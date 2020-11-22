@@ -13,11 +13,11 @@ This repo contains zero-setup environment for [Advent of Code](https://adventofc
 Clone the repo and go to the created folder:
 
 ```
-git clone https://github.com/caderek/aoc-starter-ts.git aoc2019
+git clone https://github.com/caderek/aoc-starter-ts.git aoc2020
 ```
 
 ```
-cd aoc2019
+cd aoc2020
 ```
 
 Using NPM:
